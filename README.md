@@ -281,9 +281,8 @@ buffer.finalize()  # Final review submitted
 
 1. **Token Counting**: Implement token-based limits instead of pair counts
 2. **Persistent Storage**: Save conversations to disk
-3. **Web Interface**: Create a simple web UI using Streamlit
-4. **Advanced Commands**: Add EDIT, REPLACE, and MERGE operations
-5. **Conversation Analytics**: Track response patterns and user behavior
+3. **Advanced Commands**: Add EDIT, REPLACE, and MERGE operations
+4. **Conversation Analytics**: Track response patterns and user behavior
 
 ## Testing
 
